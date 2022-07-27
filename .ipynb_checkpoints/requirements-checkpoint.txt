@@ -1,0 +1,2 @@
+pyairtable==1.2.0
+ipywidgets==7.7.1
